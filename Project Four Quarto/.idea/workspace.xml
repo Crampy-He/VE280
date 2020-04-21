@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d4d80f9-1ccb-41d9-9ffa-e5334008a3d4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>12345</find>
+      <find>throw</find>
+      <find>getPiece</find>
+      <find>cout</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1Rzref1nKE2RTk72v45Lj0QTFgf" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p4" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="h h 280" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="p4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="p4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Build All" />
+      <item itemvalue="CMake Application.p4" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4d80f9-1ccb-41d9-9ffa-e5334008a3d4" name="Default" comment="" />
+      <created>1563271658023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563271658023</updated>
+      <workItem from="1563271659594" duration="4354000" />
+      <workItem from="1563281271188" duration="10910000" />
+      <workItem from="1563302546294" duration="3803000" />
+      <workItem from="1563337571664" duration="4916000" />
+      <workItem from="1563375905427" duration="1704000" />
+      <workItem from="1563380319380" duration="2582000" />
+      <workItem from="1563383042381" duration="14001000" />
+      <workItem from="1563413588287" duration="24187000" />
+      <workItem from="1563447280542" duration="12342000" />
+      <workItem from="1563463429271" duration="54582000" />
+      <workItem from="1563547394304" duration="4177000" />
+      <workItem from="1563551630275" duration="1905000" />
+      <workItem from="1563558214711" duration="3162000" />
+      <workItem from="1563561451667" duration="13242000" />
+      <workItem from="1564483871575" duration="1868000" />
+      <workItem from="1570680872759" duration="709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
